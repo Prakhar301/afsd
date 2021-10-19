@@ -1,0 +1,34 @@
+.heading{
+    font-size: 25px;
+    white-space:pre-line;
+    width:100%;
+    padding:5px !important;
+    margin: 0%;
+    box-shadow:slateblue 15px 15px 15px;
+}
+.fb{
+    color: tomato;
+    font-size: 15px;
+    font-weight: 600;
+}
+.fotter{
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    background-color: slategrey;
+    width:100%;
+    text-align: center;
+    color: snow;
+    border-radius:5px;
+}
+canvas{
+    border:seagreen 10px ridge ;
+    border-radius: 20px;
+    box-shadow: 5px 7px 8px gold;
+}   
+body:hover{
+    background-color:darkviolet;
+}
+body{
+    background-color:purple;
+}
